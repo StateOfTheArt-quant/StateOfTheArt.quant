@@ -34,6 +34,7 @@ We're looking for pull requests related to results from papers or reliable discl
 
 [Applied Quantitative Research(AQR)](https://www.aqr.com/Insights/Research):AQR is a pioneer as a quantitative investor and as a publisher of influential academic research. 
 
+[Oxford-Man Institute of Quantitative Finance](http://www.oxford-man.ox.ac.uk/):We answer fundamental questions about financial markets, and develop new quantitative methods and insights with the potential to transform them. 
 
 # Quantitative Researcher
 [Bryan T. Kelly](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=759326)
